@@ -26,9 +26,9 @@ encrypt.sh prompts the user for input and output file names, generates a key, an
 decrypt.sh prompts the user for input and output file names and decrypts the file specified.
 
 Alternatively, you could use the cypher binary by itself, it takes three command line arguments:
-	1) File name of the message to encrypt
-	2) File name of the key to use
-	3) File name of the outputted encrypted (or decrypted) file.
+	1. File name of the message to encrypt
+	2. File name of the key to use
+	3. File name of the outputted encrypted (or decrypted) file.
 
 Note: the first two arguments are interchangeable, since I am using the same function (xor), to encrypt as to decrypt.
 
