@@ -1,10 +1,3 @@
-OneTimeCrypt
-============
-
-Nathan BeDell (cerbeus@msn.com)
-11/10/2013
-
-
 Background
 ==========
 This is a simple program that I wrote to help with encrypting and decrypting files using the One Time Pad (or OTP) method,
